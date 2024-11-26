@@ -1,0 +1,16 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "http://localhost:55483/ProductService.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, WCFProductService"
+    ],
+    "targetFramework": "net8.0",
+    "typeReuseMode": "None"
+  }
+}
